@@ -41,6 +41,7 @@ body {
      margin: auto;
      display: flex;
      background-color: white;
+     box-shadow: -2px 5px 30pz #000000;
 }
 
 /* Selector Desendiente */
